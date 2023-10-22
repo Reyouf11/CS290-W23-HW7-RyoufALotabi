@@ -1,4 +1,5 @@
 feature 1
 add feature 1
 feature 1 with bug 
-feature 1 with bug fix
+feature 2
+feature 1 wuth bug fix
